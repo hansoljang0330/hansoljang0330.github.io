@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon yellow"
+minimal_mistakes_skin    : "skyblue"
 
 # Site Settings
 locale                   : "ko"
