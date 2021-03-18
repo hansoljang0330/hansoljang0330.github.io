@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "skyblue"
+minimal_mistakes_skin    : "white"
 
 # Site Settings
 locale                   : "ko"
-title                    : "C 프로그래밍"
+title                    : "hansoljang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "장한솔"
-description              : "시스템 프로그램을 위한 C언어"
+description              : "🥰"
 url                      : "https://hansoljang0330.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hansoljang0330/hansoljang0330.github.io"
