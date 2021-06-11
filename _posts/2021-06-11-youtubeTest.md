@@ -70,4 +70,5 @@ printf("비트 NOT = %08x\n", ~x);
 printf("비트 << = %08x\n\n", x << 1);
 printf("비트 >> = %08x\n", x >> 1);
 return 0;
+}
 ~~~
