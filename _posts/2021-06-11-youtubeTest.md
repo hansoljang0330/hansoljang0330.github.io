@@ -46,10 +46,10 @@ return 0;
 int main()
 {
 int a=10;
-printf("a++=%d\n", a++); //10 a=a+1
-printf("++a=%d\n", ++a); //12
-printf("a--=%d\n", a--); //12
-printf("--a=%d\n", --a); //10
+printf("a++=%d\n", a++);
+printf("++a=%d\n", ++a);
+printf("a--=%d\n", a--);
+printf("--a=%d\n", --a);
 return 0;
 }
 ~~~
