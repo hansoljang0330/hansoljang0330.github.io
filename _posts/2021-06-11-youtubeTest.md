@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "비트 연산자 (유튜브 동영상 삽입하기)"
-categories: "개념 정리"
+categories: "개념정리"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
