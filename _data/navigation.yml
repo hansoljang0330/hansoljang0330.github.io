@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "개념정리"
+    url: https://hansoljang0330.github.io/%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC/
+  - title: "형성평가"
+    url: https://hansoljang0330.github.io/%ED%98%95%EC%84%B1%ED%8F%89%EA%B0%80/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
